@@ -1,0 +1,17 @@
+﻿  源.cpp
+D:\chrome download\opencv\build\include\opencv2\core\mat.hpp(2586,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\chrome download\opencv\build\include\opencv2\core\persistence.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\chrome download\opencv\build\include\opencv2\core\utility.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\chrome download\opencv\build\include\opencv2\core\utility.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\chrome download\opencv\build\include\opencv2\flann\logger.h(66,22): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\chrome download\opencv\build\include\opencv2\imgproc.hpp(592,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\c\opencv 02\Project1\源.cpp(82,57): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\c\opencv 02\Project1\源.cpp(82,37): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
